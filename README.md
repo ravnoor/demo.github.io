@@ -1,7 +1,6 @@
-###Using repo as a demo to illustrate creating website using Jekyll+Github
+###Using this repo as a demo to illustrate creating website using Jekyll+Github
 
-This is my J A Branhams website. It's hosted at
-[www.jabranham.com](www.jabranham.com)
+This is J A Branham's academic website. It's hosted at [www.jabranham.com](www.jabranham.com), source at [https://github.com/jabranham/jabranham.github.io](https://github.com/jabranham/jabranham.github.io)
 
 
 
